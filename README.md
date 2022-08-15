@@ -10,13 +10,13 @@ brew link --force --overwrite node@16
 ```
 
 - Close your terminal and open a new one.
-- Check to see if if Node was installed correctly.
+- Check to see if Node was installed correctly.
 
 ```sh
 node -v
 npm -v
 ```
-Our output for those commands should show us what versions of node and npm we have. If not lets assess.
+Our output for those commands should show us what versions of node and npm we have.
 
 
 
