@@ -52,6 +52,9 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/#downloa
 - Follow the MongoDB Community Edition installation wizard
 ####
 
+Mongosh install Instrunctions:
+https://www.mongodb.com/docs/mongodb-shell/install/
+
 Here's a link with more info 
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/q
 
