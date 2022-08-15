@@ -20,9 +20,11 @@ Our output for those commands should show us what versions of node and npm we ha
 
 
 
-#### Node for PC
+# Node for PC
+
 Download node directly from this link and follow the install instructions.
 https://nodejs.org/en/download/
+
 ======================================
 ## Mongodb for Mac
 
